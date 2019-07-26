@@ -1,2 +1,2 @@
-my file
-them moi ne
+var a="hello i am nodejs"
+cosonle.log(a)
