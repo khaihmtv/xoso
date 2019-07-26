@@ -1,2 +1,2 @@
 var a="hello i am nodejs"
-cosonle.log(a)
+console.log(a)
